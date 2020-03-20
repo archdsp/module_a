@@ -1,1 +1,1 @@
-import a
+from . import a
